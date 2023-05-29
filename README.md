@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android & Oracle**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codebyLFN](https://github.com/codebyLFN)
+- 👨‍💻 All of my projects are available at [https://github.com/ofentse-sithole](https://github.com/ofentse-sithole)
 
 - 📫 How to reach me **otsithole07@gmail.com**
 
