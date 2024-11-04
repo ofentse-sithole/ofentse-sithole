@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofentse-sithole&label=Profile%20views&color=0e75b6&style=flat" alt="ofentse-sithole" /> </p>
 
-- 🌱 I’m currently learning **Flutter and React**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ofentse-sithole?tab=repositories](https://github.com/ofentse-sithole?tab=repositories)
 
